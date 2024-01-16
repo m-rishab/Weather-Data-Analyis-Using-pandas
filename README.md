@@ -4,17 +4,17 @@
 
 ## In this Project I used:
 
--- nunique() and unique()
--- value__counts()
--- Filtering 
--- groupby()
--- getgroup()
--- isnull() or notnull()
--- rename()
--- maean()
--- std()
--- var()
--- str.contains
--- And (&) Operator
--- OR (|) Operator
--- Min & Max
+#### nunique() and unique()
+#### value__counts()
+#### Filtering 
+#### groupby()
+#### getgroup()
+#### isnull() or notnull()
+#### rename()
+#### maean()
+#### std()
+#### var()
+#### str.contains
+#### And (&) Operator
+#### OR (|) Operator
+#### Min & Max
